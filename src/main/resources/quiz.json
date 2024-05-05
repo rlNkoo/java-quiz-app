@@ -1,0 +1,170 @@
+[
+  {
+    "question": "When was Java created?",
+    "a": 1986,
+    "b": 1991,
+    "c": 1995,
+    "d": 2000,
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Who developed the Java programming language?",
+    "a": "Microsoft",
+    "b": "Sun Microsystems",
+    "c": "Apple",
+    "d": "IBM",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which programming paradigm does Java primarily follow?",
+    "a": "Procedural",
+    "b": "Functional",
+    "c": "Object-oriented",
+    "d": "Logic",
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is the main characteristic of Java's platform independence?",
+    "a": "It can only run on Windows machines",
+    "b": "It can run on any machine with the Java Virtual Machine (JVM) installed",
+    "c": "It requires internet connection to run",
+    "d": "It can only be used for web development",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What does JDK stand for in Java programming?",
+    "a": "Java Developer Kit",
+    "b": "Java Distribution Kit",
+    "c": "Java Design Kit",
+    "d": "Java Debugging Kit",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which keyword is used to define a class in Java?",
+    "a": "define",
+    "b": "class",
+    "c": "struct",
+    "d": "classdef",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is the purpose of the 'static' keyword in Java?",
+    "a": "To declare a variable as constant",
+    "b": "To indicate that a method or variable belongs to the class, rather than instances of the class",
+    "c": "To make a variable accessible only within the same class",
+    "d": "To specify that a method can be overridden",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which method is called automatically when an object is created in Java?",
+    "a": "initialize()",
+    "b": "start()",
+    "c": "create()",
+    "d": "constructor()",
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What is the output of the following code snippet? \n public class Main {\n public static void main(String[] args) {\n int x = 5;\n System.out.println(x++);\n }\n}",
+    "a": "5",
+    "b": "6",
+    "c": "4",
+    "d": "Compilation error",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is the result of 5 / 2 in Java?",
+    "a": "2",
+    "b": "2.5",
+    "c": "2.0",
+    "d": "2.25",
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a valid variable name in Java?",
+    "a": "myVar",
+    "b": "_myVar",
+    "c": "2myVar",
+    "d": "$myVar",
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is the purpose of 'break' statement in Java?",
+    "a": "To exit the loop",
+    "b": "To skip the current iteration of the loop and proceed to the next one",
+    "c": "To continue the loop from the next iteration",
+    "d": "To terminate the program",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which data type is used to store a single character in Java?",
+    "a": "char",
+    "b": "character",
+    "c": "chr",
+    "d": "varchar",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What does the 'final' keyword signify in Java?",
+    "a": "The variable cannot be modified",
+    "b": "The variable cannot be accessed outside its class",
+    "c": "The variable cannot be used in mathematical operations",
+    "d": "The variable cannot be printed",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which keyword is used to handle exceptions in Java?",
+    "a": "try",
+    "b": "catch",
+    "c": "throw",
+    "d": "exception",
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is the default value of int variable in Java?",
+    "a": "0",
+    "b": "null",
+    "c": "1",
+    "d": "undefined",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which class is the superclass of all other classes in Java?",
+    "a": "SuperClass",
+    "b": "Main",
+    "c": "Object",
+    "d": "Parent",
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is the difference between '== 'and '.equals()' in Java?",
+    "a": "'==' is used to compare object references while '.equals()' is used to compare the contents of the objects",
+    "b": "'==' is used to compare the contents of the objects while '.equals()' is used to compare object references",
+    "c": "'==' is used for assignment while '.equals()' is used for comparison",
+    "d": "'==' is used to compare strings while '.equals()' is used to compare numbers",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is the purpose of the 'this' keyword in Java?",
+    "a": "To refer to the current instance of the class",
+    "b": "To refer to the superclass of the class",
+    "c": "To refer to a static method",
+    "d": "To create a new instance of the class",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Which collection class allows null elements in Java?",
+    "a": "ArrayList",
+    "b": "LinkedList",
+    "c": "HashSet",
+    "d": "TreeSet",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What does the 'extends' keyword signify in Java?",
+    "a": "It indicates that a class implements an interface",
+    "b": "It indicates that a class is a subclass of another class",
+    "c": "It indicates that a method is overloaded",
+    "d": "It indicates that a method is overridden",
+    "correctAnswer": "b"
+  }
+]
